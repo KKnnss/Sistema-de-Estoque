@@ -12,8 +12,8 @@
     <div id="grid-container">
         <div id="left-container">
             <div id="left-content">
-                <div id="h1-left"> <h1> Estacionamento </h1> </div>
-                <div id="h2-left"> <h2>  sistema de estacionamento . </h2> </div>
+                <div id="h1-left"> <h1> estoque </h1> </div>
+                <div id="h2-left"> <h2>  sistema de estoque . </h2> </div>
                 <div id="button-left"> <a href="cadastro.php">  não tem uma conta ? </a> </div>
             </div>
         </div>

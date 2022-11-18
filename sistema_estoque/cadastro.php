@@ -30,7 +30,7 @@
         <div id="right-container">
             <div id="right-content">
                 <div id="h1-right"> <h1> estoque </h1> </div>
-                <div id="h2-right"> <h2> Sistema de estacionamento </h2> </div>
+                <div id="h2-right"> <h2> Sistema de estoque </h2> </div>
                 <div id="button-right"> <a href="login.php"> Tem uma conta ? </a> </div>
             </div>
         </div>
